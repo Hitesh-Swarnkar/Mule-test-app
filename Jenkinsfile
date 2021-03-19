@@ -1,6 +1,6 @@
 pipeline {
 
-  agent myNode 
+  agent any 
   environment {
     //adding a comment for the commit test
     DEPLOY_CREDS = credentials('deploy-anypoint-user')
