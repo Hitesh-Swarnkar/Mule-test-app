@@ -7,7 +7,7 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>sampleapi</artifactId>
 	<version>1</version>
-	<packaging>jar</packaging>
+	<packaging>mule-application</packaging>
 
 	<name>sampleapi</name>
 
